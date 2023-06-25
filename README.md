@@ -1,6 +1,6 @@
 # 👋 Hello There! I'm Melo
 
-[![Melement](https://img.shields.io/badge/Discord-melement-6b06f2)](https://discord.com/users/991625835306024992)
+[![Melement](https://img.shields.io/badge/Discord-melement-6b06f2)](https://discord.com/users/136619876407050240)
 [![Melement](https://img.shields.io/badge/Discord-annan-6b06f2)](https://discord.gg/annan)
 [![Melement](https://komarev.com/ghpvc/?username=ZeusMisali&color=dc143c&label=Visitors&color=6b06f2)](https://github.com/melementttt)
 
