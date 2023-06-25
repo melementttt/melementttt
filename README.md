@@ -1,14 +1,23 @@
+# 👋 Hello There! I'm Ertu
 
-![profile count](https://komarev.com/ghpvc/?username=melementttt&color=dc143c)&nbsp;
-[![GitHub melementttt](https://img.shields.io/github/followers/melementttt?label=follow&style=social)](https://github.com/melementttt)&nbsp;
-<p align="center">
-   <a href="https://discord.com/users/972398070492987444" target"blank_"><img src="https://img.shields.io/badge/melement%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://instagram.com/ahmetchiii" target"blank_"><img src="https://img.shields.io/badge/melementttt%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://sptfy.com/ahmetchiii" target"blank_"><img src="https://img.shields.io/badge/melementttt%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="https://github.com/melementttt" target"blank_"><img src="https://img.shields.io/badge/melementttt%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-<div align="center">
+[![Melement](https://img.shields.io/badge/Discord-ertu-6b06f2)](https://discord.com/users/991625835306024992)
+[![Melement](https://img.shields.io/badge/Discord-Luppux-6b06f2)](https://discord.gg/annan)
+[![Melement](https://komarev.com/ghpvc/?username=ZeusMisali&color=dc143c&label=Visitors&color=6b06f2)](https://github.com/melementt)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/708304851616137227?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/708304851616137227)
- </a>
-</div>
+# Language & Tools
+ <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,mongo,&theme=dark" />
+
+# Discord Account
+<a href="https://discord.com/users/136619876407050240"><img  width="400px" src="https://luppufy.onrender.com/member/991625835306024992?border=f61014&theme=070000"></a>
+
+
+# GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ertucuk&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
+
+
+
+
+
+
+
+
