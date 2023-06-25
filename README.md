@@ -1,8 +1,8 @@
-# 👋 Hello There! I'm Ertu
+# 👋 Hello There! I'm Melo
 
-[![Melement](https://img.shields.io/badge/Discord-ertu-6b06f2)](https://discord.com/users/991625835306024992)
-[![Melement](https://img.shields.io/badge/Discord-Luppux-6b06f2)](https://discord.gg/annan)
-[![Melement](https://komarev.com/ghpvc/?username=ZeusMisali&color=dc143c&label=Visitors&color=6b06f2)](https://github.com/melementt)
+[![Melement](https://img.shields.io/badge/Discord-melement-6b06f2)](https://discord.com/users/991625835306024992)
+[![Melement](https://img.shields.io/badge/Discord-annan-6b06f2)](https://discord.gg/annan)
+[![Melement](https://komarev.com/ghpvc/?username=ZeusMisali&color=dc143c&label=Visitors&color=6b06f2)](https://github.com/melementttt)
 
 # Language & Tools
  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,mongo,&theme=dark" />
