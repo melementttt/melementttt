@@ -8,7 +8,7 @@
  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,mongo,&theme=dark" />
 
 # Discord Account
-<a href="https://discord.com/users/136619876407050240"><img  width="400px" src="https://luppufy.onrender.com/member/991625835306024992?border=f61014&theme=070000"></a>
+<a href="[https://discord.com/users/136619876407050240]([https://discord.com/users/136619876407050240](https://discord.com/users/136619876407050240))"><img  width="400px" src="https://luppufy.onrender.com/member/991625835306024992?border=f61014&theme=070000"></a>
 
 
 # GitHub Stats
